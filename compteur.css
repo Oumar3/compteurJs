@@ -1,0 +1,32 @@
+.start,.stop{
+    margin: 10px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 0;
+    outline: none;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.stop{
+    background: rgb(211, 67, 67);
+}
+
+.start{
+    background: rgba(4, 146, 4, 0.692);
+}
+
+.compte{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.value{
+    text-align: center;
+    margin: 0 auto;
+
+}
